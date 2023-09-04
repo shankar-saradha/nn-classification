@@ -43,8 +43,8 @@ Using the DL model predict for some random inputs.
 
 ## PROGRAM:
 
-## Developed by: Senthil Kumar S
-## Register Num: 212221230091
+## Developed by: Shankar S S
+## Register Num: 212221240052
 ```py
 import pandas as pd
 import numpy as np
